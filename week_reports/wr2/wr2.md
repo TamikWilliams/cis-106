@@ -1,0 +1,1 @@
+[lab2 link](https://github.com/TamikWilliams/cis-106/tree/main/labs/lab2)

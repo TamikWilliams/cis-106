@@ -1,0 +1,10 @@
+# Lecture 2 Introduction to Linux Notes 
+
+- What is an Operating System? An operating system provides all fundamental software features of a computer. An OS enables you to use the computer's hardware providing you the basic tools that make the computer useful.All of those features relay on the OS's kernel. Other OS features are owed to additional programs that run atop the kernel.
+- What is a kernel? An OS kernel is a software component that's responsible for managing low-level features of the computer, including the following managing system hardware, memory allocation, CPU time, and program to program interaction.
+- Which part aside from the kernel identify an OS? Command - line shells - Graphical User Interfaces - Utility and Productivity Programs- Libraries
+- What is linux and linux distribution? Linux is a Unix Operating System popular in academic and business environment 
+- List at least 4 linux characteristics: open source software-free of charge- highly scalable- you can use on almost any system
+- What is Debian? Debian is an all volunteer organization dedicated to developing free software and promoting the ideals of the Free Software community.
+- List and define the different types licensing agreements open source- the software may be distributed for a fee or free. The source code is distributed with the source code. The user is restricted from modifying the code. closed source- the software is not distributed with the source code. The user is restricted from modifying the code. freeware- the software is free but the source code is not available. Shareware- the software is free on a trial basis
+- What is Free software? Define the 4 freedoms. the software is distributed with the source code. The software can be free of charge or obtained. Freedom 0- use the software for any purpose. Freedom 1 examine the source code and modify it as you see fit. Freedom 2- redistribute the software. Freedom 3- redistribute your modified software.
