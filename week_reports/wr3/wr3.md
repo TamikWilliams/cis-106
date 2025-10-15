@@ -4,19 +4,19 @@
 - [notes3.md](put github linkhere)
 - ## Practice screenshots
 - ### Practice 3
-- ![screenshot of practice 3](p3.md)
+- ![screenshot of practice 3](p3.pnj)
 - ### Practice 4
-- ![screenshot of practice 4](p4.md)
+- ![screenshot of practice 4](p4.pnj)
 - ### Practice 3
-- ![screenshot of practice 3](p3.md)
+- ![screenshot of practice 3](p3.pnj)
 ### Practice 3
-- ![screenshot of practice 3](p3.md)
+- ![screenshot of practice 3](p3.pnj)
 - ### Practice 3
-- ![screenshot of practice 3](p3.md)
+- ![screenshot of practice 3](p3.pnj)
 - ### Practice 3
-- ![screenshot of practice 3](p3.md)
+- ![screenshot of practice 3](p3.pnj)
 - ### Practice 3
-- ![screenshot of practice 3](p3.md)
+- ![screenshot of practice 3](p3.pnj)
 - ### Practice 3
-- ![screenshot of practice 3](p3.md)
+- ![screenshot of practice 3](p3.pnj)
 - 
