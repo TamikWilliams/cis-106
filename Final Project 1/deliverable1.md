@@ -3,15 +3,13 @@
 ## Questions
 ### 1. What is a web server?
 
-![server](my pic of a web server.jpg)
+
 
 my Answer
 
 ### 2. What are some different web server applications?
 
 #### Application 1
-
-![ap1](app1.png)
 
 my Answer
 
@@ -21,9 +19,9 @@ my Answer
 
 #### Application 2
 
-![ap2](app2.png)
+my answwer
 
-Amet labore esse magna sit culpa sint sint consectetur. Quis tempor duis dolor aliqua excepteur exercitation enim incididunt cillum ut laboris ea. Et elit velit officia non ad laboris elit anim aute.
+
 
 | Website                           | Availability | Latest version |
 | --------------------------------- | ------------ | -------------- |
@@ -42,7 +40,16 @@ Nisi culpa dolor nisi officia laboris tempor sunt. In amet cillum Lorem in excep
 
 
 ### 3. What is virtualization?
-Voluptate duis anim enim pariatur incididunt do. Esse voluptate eiusmod quis esse ad sunt adipisicing ut amet amet non ex. Ex velit occaecat in minim labore fugiat commodo. Nostrud anim veniam fugiat officia aliquip incididunt et id irure nulla eu aute esse adipisicing. Proident mollit exercitation exercitation laborum aliqua excepteur dolore est. Reprehenderit eiusmod in Lorem sit elit laboris minim fugiat dolor.
+Voluptate duis anim enim pariatur incididunt do. Esse voluptate eiusmod quis esse ad sunt adipisicing ut amet amet non ex. Ex velit occaecat in minim labore fugiat commodo. Nostrud anim veniam fugiat officia aliquip incididunt et id irure nulla eu aute esse adipisicing. Proident mollit exercitation exerci
+* **Guest Machine:** Culpa excepteur ut minim ea consequat et voluptate laborum tempor minim anim irure. Nisi elit commodo ea deserunt. Esse anim enim culpa quis culpa minim et ut aliquip consequat minim.
+
+### 7. What is Debian?
+Aute irure do velit et Lorem officia. Amet duis adipisicing nulla ea sunt id laboris enim sint enim laborum. Reprehenderit consectetur voluptate aute occaecat do labore irure officia sunt labore consectetur ipsum. Qui nisi labore commodo in Lorem elit veniam qui eiusmod sunt.
+
+### 8. What is a firewall?
+
+![Firewall](https://exa.net.uk/wp-content/uploads/2021/06/What-is-a-firewall.png)
+tation laborum aliqua excepteur dolore est. Reprehenderit eiusmod in Lorem sit elit laboris minim fugiat dolor.
 
 ### 4. What is virtualbox?
 Sunt magna deserunt dolore elit dolore ea. Nostrud proident do tempor velit Lorem est aliquip ad eiusmod exercitation ad. Tempor laborum eu sunt excepteur anim eiusmod qui eu do ea. Cillum enim labore labore duis. Do qui pariatur fugiat nisi qui. Reprehenderit et irure do officia fugiat anim laboris aliqua veniam anim Lorem.
@@ -52,15 +59,6 @@ Non sit excepteur enim eiusmod id culpa tempor occaecat ad. Eiusmod excepteur an
 
 ### 6. In the context of virtualization, what does host machine and guest machine mean?
 * **Host Machine:** Minim est ipsum elit pariatur laborum fugiat. Elit excepteur enim reprehenderit do officia laboris tempor adipisicing id in sit. Duis magna commodo in veniam non consectetur exercitation dolore sit et ad elit. Occaecat et nostrud ex ad nisi fugiat do ad pariatur quis Lorem nulla consectetur. Sunt elit qui pariatur qui anim laborum consequat ad eu. Sint cupidatat ut consectetur nisi deserunt aliquip magna veniam proident anim laboris culpa. Cupidatat anim incididunt do quis aliqua nisi consequat officia.
-
-* **Guest Machine:** Culpa excepteur ut minim ea consequat et voluptate laborum tempor minim anim irure. Nisi elit commodo ea deserunt. Esse anim enim culpa quis culpa minim et ut aliquip consequat minim.
-
-### 7. What is Debian?
-Aute irure do velit et Lorem officia. Amet duis adipisicing nulla ea sunt id laboris enim sint enim laborum. Reprehenderit consectetur voluptate aute occaecat do labore irure officia sunt labore consectetur ipsum. Qui nisi labore commodo in Lorem elit veniam qui eiusmod sunt.
-
-### 8. What is a firewall?
-
-![Firewall](https://exa.net.uk/wp-content/uploads/2021/06/What-is-a-firewall.png)
 
 Pariatur excepteur velit ut eu enim adipisicing aliquip deserunt enim ullamco pariatur laboris. Eu dolore proident anim veniam labore minim quis enim irure ad non exercitation. Ullamco qui incididunt ad proident proident occaecat labore nostrud dolore nisi deserunt excepteur nulla reprehenderit. Fugiat laboris aliqua aliquip tempor consequat est pariatur Lorem deserunt cupidatat incididunt ullamco deserunt fugiat. Culpa ullamco voluptate dolore aliquip minim ad.
 
