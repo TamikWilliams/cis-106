@@ -1,9 +1,27 @@
-How to use each of the wildcard. 
-* Matches zero to any number of characters
-? Matches only one character
-[set] Matches only 1 character
+## Notes7
 
-How to use Brace Expansion to create entire directory structures. 
+## How to use each of the wildcard. 
+* Matches zero to any number of characters 
+* 
+* ### Example 
+* ls *.pdf
+? Matches only one character
+
+### Example 
+ls  program?.py
+
+[] 1 character from a given set of characters
+
+### Example 
+ls document ][A-Z].doc
+
+[!] The opposite of the given set
+
+### Example
+ls new-doc[!0-9].docx
+
+## How to use 
+ Expansion to create entire directory structures. 
 Start with an open brace
 With no spaces, type your string separating entries by a command.
 Close the brace
