@@ -1,21 +1,20 @@
 ## Notes7
 
 ## How to use each of the wildcard. 
-* Matches zero to any number of characters 
-* 
-* ### Example 
+
+## * Matches zero to any number of characters 
+### Example 
 * ls *.pdf
-? Matches only one character
+* 
+## ? Matches only one character
+### Example s 
+ ls program?.py
 
+## [] 1 character from a given set of characters
 ### Example 
-ls  program?.py
+ls document [A-Z].doc
 
-[] 1 character from a given set of characters
-
-### Example 
-ls document ][A-Z].doc
-
-[!] The opposite of the given set
+## [!] The opposite of the given set
 
 ### Example
 ls new-doc[!0-9].docx
