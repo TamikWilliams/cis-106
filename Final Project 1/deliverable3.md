@@ -1,9 +1,9 @@
 # Deliverable 3
 
-## Project Repostory
-[Pizza_pizza](https://github.com/robertalberto0713/pizza_pizza)
+## Project Repository
+[Food Website](https://github.com/TamikWilliams/cis106website)
 
-## Port Forwarding Examples
+## Screenshots of your website
 
 ### Screenshot of the index.html 
 ![sc2](Screenshot1.png)
@@ -19,17 +19,3 @@
 
 ### Recording
 ![rec](Recording1.gif)
-
-## Bridge Network Adapter Examples
-
-### Screenshot5
-![sc4](Screenshot5.png)
-
-### Screenshot6
-![sc4](Screenshot6.png)
-
-### Screenshot7
-![sc4](Screenshot7.png)
-
-### Recording
-![rec](Recording2.gif)

@@ -1,5 +1,5 @@
 
-ls - used for displaying all the files inside a given directory. When no directory is specified, ls 
+## ls - used for displaying all the files inside a given directory. When no directory is specified, ls 
 displays the files in the current working directory.
 examples
 ls- list the content of the present working directory
