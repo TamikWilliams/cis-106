@@ -9,10 +9,7 @@
 ![ip addr](ipaddress.png)
 
 ## 4. How do you work with the Firewall in Debian? **(Type and explain what each command does)**
-
-### Command name
-* **Description**: Est pariatur sint fugiat mollit ea est veniam proident nulla laboris excepteur.
-* **Formula**/**Syntaxt**: `command` + `option` + `argument` 
+ 
 * **Examples**:
   * How do you check if the Firewall is running?
     * By using the command `sudo ufw status`
@@ -44,7 +41,7 @@
 ![ans1](ans5.png)
 
 **6.  What are some common configuration files for Apache?**
-* The command is: `command here`
+* The command is: `ls -a *.conf`
 ![ans1](ans6.png)
 
 **7.  Where does Apache store logs?**
