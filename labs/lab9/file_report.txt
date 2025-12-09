@@ -1,0 +1,21 @@
+All files in my home directory
++, access.log, assets, .bash_aliases, .bash_history, .bash_logout, .bashrc,
+.cache, cis-106, cis106website, colors, .config, Desktop, Documents, .dotnet,
+Downloads, .emacs.d, essentials.sh, .face, .face.icon, file, file_report.txt,
+.fonts, .gitconfig, .gnupg, inClassActivity, lab5files, lab5files.zip,
+lab6-challenge1, lab6-challenge2, labs, .local, marstenHouse, marstenhouse.sh,
+marstenhouse.sh.1, .mozilla, music, Music, myhomework, name, of, Pictures, .pki,
+practicels, practicels.tar.xz, .profile, projectx, Public, scripts, snap,
+snapshots, sorted_access_log_by_endpoint.log, sorted_access_log_by_usname.log,
+.ssh, .sudo_as_admin_successful, Templates, todo.md,
+.vboxclient-clipboard-tty2-control.pid, .vboxclient-clipboard-tty2-service.pid,
+.vboxclient-draganddrop-tty2-control.pid,
+.vboxclient-hostversion-tty2-control.pid, .vboxclient-seamless-tty2-control.pid,
+.vboxclient-vmsvga-session-tty2-control.pid,
+.vboxclient-vmsvga-session-tty2-service.pid, Videos, .vscode, vscode.sh,
+wallpapers, ~website, website, website_ch1_lab7_completed, websites, .wget-hsts,
+wildcardpractice, wildcards-in-class-activity-instructions.html, wr5, wr5.md
+Total number of files in my home directory
+34
+Total number of directories in my home directory
+42
