@@ -40,9 +40,9 @@ grep -n '$nologin' /etc/passwd
     awk awk + options   {awk command} + file + file to save
 ## Basic Example 
 awk '{print $1}' ~/Documents/Csv/cars.csv
-## Print first field of /etc/passwd file
-awk -F: '{print $1}' /etc/passwd
-## Print the last field of the /etc/passwd
+## Print first field of /etc/passwd file (user command)
+awk -F: '{print $1}' /etc/passwd 
+## Print the last field of the /etc/passwd (login shell)
 awk -F: '{print $NF}' /etc/passwd
 ## Print the first and last field of the etc/passwd
 awk -F: '{print $1, " = ", $NF }'
@@ -85,6 +85,7 @@ sed 's/^/     /hehelloWorld.c
 ## Use grep to look for a string in a particular man page
 man ls | grep "human readable"
 man ls| grep "^[[:space:]]*[[:punct:]]
+man ls| grep "long" or "comma"
 ## Explain how to save the output of a command to a file (>). Include at least 3 examples
 
 
