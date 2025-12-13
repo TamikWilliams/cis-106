@@ -2,7 +2,7 @@
 
 ## Q1
 ![P1](Q1:P1.png)
-[P2](Q1.P2.png)
+[P2](Q1.P2.png)git commit 
 [P3](Q1:P3.png)
 
 ## Challenge 

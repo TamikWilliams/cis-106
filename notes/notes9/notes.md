@@ -36,7 +36,7 @@ grep -n '$nologin' /etc/passwd
   -c Search and display the total number of times a pattern is mathced.
   -w Matches only given word (pattern) by itself
   -r, -R Matches recursively. Useful for searching files in a given directory.
-  
+  --- 
     awk awk + options   {awk command} + file + file to save
 ## Basic Example 
 awk '{print $1}' ~/Documents/Csv/cars.csv
@@ -52,8 +52,8 @@ awk  -F: '{print NR,$1,$4}' /etc/passwd
 awk -F: '{OFS="="}{print $1,$4}' /etc/passwd
 ## Start printing a file from a given line (exclude the first 2 lines)
 awk 'NR > 3{ Print }' /etc/passwd
-
-
+---
+## sed command
     sed options +ic sed script + file 
 ## Bas Example  
 ## Replacing a string in given file globally (replace false for true) 
