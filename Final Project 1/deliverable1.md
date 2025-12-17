@@ -2,11 +2,9 @@
 
 ## Questions
 ### 1. What is a web server?
-On the hardware side, a web server is a computer that stores web server software and a website's component files (for example, HTML documents, images, CSS stylesheets, and JavaScript files). A web server connects to the Internet and supports physical data interchange with other devices connected to the web.
+- On the hardware side, a web server is a computer that stores web server software and a website's component files (for example, HTML documents, images, CSS stylesheets, and JavaScript files). A web server connects to the Internet and s- upports physical data interchange with other devices connected to the web.
 
-On the software side, a web server includes several parts that control how web users access hosted files. At a minimum, this is an HTTP server. An HTTP server is software that understands URLs (web addresses) and HTTP (the protocol your browser uses to view webpages). An HTTP server can be accessed through the domain names of the websites it stores, and it delivers the content of these hosted websites to the end user's device.
-
-
+- On the software side, a web server includes several parts that control how web users access hosted files. At a minimum, this is an HTTP server. An HTTP server is software that understands URLs (web addresses) and HTTP (the protocol your browser uses to view webpages). An HTTP server can be accessed through the domain names of the websites it stores, and it delivers the content of these hosted websites to the end user's device.
 
 ### 2. What are some different web server applications?
 
@@ -19,15 +17,15 @@ LiteSpeed
 
 
 ### 3. What is virtualization?
-the process of creating virtual, software-based versions of physical computing resources like servers, storage, and network
+- the process of creating virtual, software-based versions of physical computing resources like servers, storage, and network
 
 
 ### 7. What is Debian?
- free, open-source operating system based on the Linux kernel
+ - free, open-source operating system based on the Linux kernel
 
 
 ### 8. What is a firewall?
-a network security system that monitors and controls incoming and outgoing traffic to protect a private network from unauthorized access.
+- a network security system that monitors and controls incoming and outgoing traffic to protect a private network from unauthorized access.
 
 ![Firewall](https://exa.net.uk/wp-content/uploads/2021/06/What-is-a-firewall.png)
 explanatiom
@@ -64,19 +62,19 @@ a network configuration that allows a device on the public internet to access a 
 
 ### 15. What is localhost? (in the context of networking/computers)
 
-the hostname that refers to your own computer, used to access services running on it through the special IP address
+- the hostname that refers to your own computer, used to access services running on it through the special IP address
 
 ### 16. What does this ip address represent 127.0.0.1? 
-local host special IP address
+- local host special IP address
 
 
 ### 14. What is Git?
-is a free and open-source distributed version control system (DVCS) designed to track changes in source code during software development, and also for managing changes to any set of files. It was created by Linus Torvalds in 2005 for the development of the Linux kernel. 
+- is a free and open-source distributed version control system (DVCS) designed to track changes in source code during software development, and also for managing changes to any set of files. It was created by Linus Torvalds in 2005 for the development of the Linux kernel. 
 
 
 ### 15. What is GitHub?
- is a web-based platform that uses the Git version control system to host and manage code
+ - is a web-based platform that uses the Git version control system to host and manage code
 
 
 ## Concepts I did not understand
-* **Apache**: I didn't understand this because 
+

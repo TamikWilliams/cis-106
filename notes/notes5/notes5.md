@@ -1,11 +1,13 @@
 
 ## ls - used for displaying all the files inside a given directory. When no directory is specified, ls 
 displays the files in the current working directory.
+
 ## Examples 
 ## ls list the content of the present working directory
 ## ls -a List all the files inside the current working directory including hidden files
 ## ls -a ~/Pictures- 
-List all the files in a given directory recursively.
+
+# List all the files in a given directory recursively.
 ## ls -lR ~/Pictures
 
 ## man ls - to search for commnd also do grep
@@ -25,7 +27,7 @@ cd /home/$USER/Documents
 ## assuming that your present working directory is /usr/share/themes/ go to /usr/share
 cd ../
 
-If you want to go to your home directory you can use the following
+# If you want to go to your home directory you can use the following
 cd 
 cd ~
 cd $Home
@@ -71,18 +73,23 @@ User variables alllows you to temporarily store and use data and use it througho
  ## The shell storess all values as text strings: Bash is essentially untyped
 
 
-What the root directory? is the administrator of your system 
+# What the root directory?
+- is the administrator of your system 
 
-What does "Parent Directory" mean? allows you to move forward to a subdirectory
+## What does "Parent Directory" mean? 
+- allows you to move forward to a subdirectory
 
-What does "Current directory" mean? the directory you are at the moment
+# What does "Current directory" mean? 
+- the directory you are at the moment
 
-What is an absolute path? f Include an example full pathname absolute path always starts with the /home/tdw/music/song.mp3
+# What is an absolute path?
+- f Include an example full pathname absolute path always starts with the /home/tdw/music/song.mp3
 
-What is relative path? Include an example starts with a subdirectory partial pathname for example: music/song.mp3
+# What is relative path? Include an example starts with a subdirectory partial pathname for example:
+-  music/song.mp3
 
-What is the difference between " Your home directory" and 'The home directory"?
-"Your directory" is my user's  and "The home directory" is located in the root.
+# What is the difference between " Your home directory" and 'The home directory"?
+-"Your directory" is my user's  and "The home directory" is located in the root.
 
 
 
